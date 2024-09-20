@@ -80,7 +80,7 @@ def show_home():
     # Display images with titles and review inputs
     product_titles = ["Magic Cream Light", "Bubble Makeup Remover", "Glowy Skin Serum"]
     reviews = ["", "", ""]
-    api_key = "AIzaSyB_wVEANOjaZY5pHdFJZubyQcR875rnkaY"  # Replace with your API key
+    api_key = "YOUR_API_KEY"  # Replace with your API key
 
     # Layout for displaying the products side by side
     cols = st.columns(3)
