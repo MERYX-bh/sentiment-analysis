@@ -61,7 +61,7 @@ streamlit run app.py
 ## Screenshots
 
 ### Submit a Review
-![Submit Review](images/projet1.png)
+![Submit Review]("https://github.com/MERYX-bh/sentiment-analysis/blob/main/proejt2.png)
 
 ### Sentiment Analysis Dashboard
 ![Sentiment Analysis Dashboard](images/proejt2.png)
